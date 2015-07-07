@@ -1,0 +1,1 @@
+pyhar is a simple HAR (HTTP Archive) encoder/decoder for Python.  It is pure Python code with no dependencies.
